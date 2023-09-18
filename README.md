@@ -6,7 +6,6 @@ Accurate sales forecasting is essential for maximising inventory, resource alloc
 ## OBJECTIVE
 The main objective of this project is to develop a robust and accurate time series forecasting model that predicts store sales for a wide range of products across Favorita stores. By leveraging historical sales data and relevant supplementary information.
 
-## Summary
-
+[LinkedIn Article](https://www.linkedin.com/pulse/time-series-sales-prediction-alexianne-imanirakarama/)
 ## Author
 Alexianne Imanirakarama
